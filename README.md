@@ -1,4 +1,3 @@
-# ProblemSolving-Code
 # 🚀 Problem Solving Journey
 
 Welcome to my Problem Solving repository!  
