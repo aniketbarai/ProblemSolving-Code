@@ -17,7 +17,7 @@ Here I’m tracking my growth as a developer through consistent coding practice 
 - Python / Java(Coming soon 🚧)
 
 ---
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&repo=ProblemSolving-code&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&repo=ProblemSolving-Code&layout=compact&theme=tokyonight)
 
 ---
 
