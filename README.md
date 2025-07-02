@@ -19,6 +19,8 @@ Here I’m tracking my growth as a developer through consistent coding practice 
 ---
 ![GitHub top language](https://img.shields.io/github/languages/top/aniketbarai/ProblemSolving-Code)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&repo=ProblemSolving-Code&layout=compact&theme=tokyonight)
+
 ---
 
 🌟 Highlights
