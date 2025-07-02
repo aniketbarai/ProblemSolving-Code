@@ -15,10 +15,6 @@ Here I’m tracking my growth as a developer through consistent coding practice 
 🛠️ Languages Used
 - C / C++
 - Python / Java(Coming soon 🚧)
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top/?username=aniketbarai&repo=ProblemSolving-Code&layout=compact&theme=dark)
-
 ---
 
 🌟 Highlights
