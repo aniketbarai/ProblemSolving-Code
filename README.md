@@ -14,7 +14,7 @@ Here I’m tracking my growth as a developer through consistent coding practice 
 ---
 🛠️ Languages Used
 - C / C++
-- Python / Java(Coming soon 🚧)
+- Python / Java
 ---
 
 🌟 Highlights
