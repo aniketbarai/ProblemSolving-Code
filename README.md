@@ -20,4 +20,4 @@ Here I’m tracking my growth as a developer through consistent coding practice 
 🌟 Highlights
 - 🔥 DSA-focused / Logic Building 
 - 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbarai&layout=compact&theme=tokyo)
